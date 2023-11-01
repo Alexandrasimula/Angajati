@@ -1,0 +1,9 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßïœÕÿÿÿÿÿ8ÓÏÍ¦·1
+j
+java:S1845"HRename field "id" to prevent any misunderstanding/clash with field "ID".(ôç¼Óþÿÿÿÿ8”ÐÍ¦·1
+n
+java:S1659q"LDeclare "hasSameLastName" and all following declarations on a separate line.(©ßŒÔüÿÿÿÿ8¡ÐÍ¦·1
+S
+java:S6397‹"5Replace this character class by the character itself.(ŠÜ§¨8¦ÐÍ¦·1
+Y	java:S125 "<This block of commented-out lines of code should be removed.(Ÿœºß8¬ÐÍ¦·1

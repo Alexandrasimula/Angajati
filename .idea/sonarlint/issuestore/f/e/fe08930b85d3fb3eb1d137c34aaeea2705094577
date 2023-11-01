@@ -1,0 +1,26 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úû“Ùûÿÿÿÿ8Ê´”§·1
+]	java:S125"<This block of commented-out lines of code should be removed.(ù–ížüÿÿÿÿ8ƒµ”§·1
+W	java:S125"<This block of commented-out lines of code should be removed.(…¾ü28…µ”§·1
+L	java:S106!"+Replace this use of System.out by a logger.(”²Ð„ÿÿÿÿÿ8Œµ”§·1
+G	java:S106("+Replace this use of System.out by a logger.(«ÇÔ˜8µ”§·1
+L	java:S106+"+Replace this use of System.out by a logger.(ï§²àûÿÿÿÿ8µ”§·1
+G	java:S106."+Replace this use of System.out by a logger.(‘›´š8Žµ”§·1
+G	java:S1065"+Replace this use of System.out by a logger.(¼’„¿8µ”§·1
+L	java:S1069"+Replace this use of System.out by a logger.(”²Ð„ÿÿÿÿÿ8µ”§·1
+L	java:S106@"+Replace this use of System.out by a logger.(¤§ŽØýÿÿÿÿ8µ”§·1
+G	java:S106B"+Replace this use of System.out by a logger.(Ù¨¢”8µ”§·1
+G	java:S106D"+Replace this use of System.out by a logger.(°ù­“8µ”§·1
+G	java:S106F"+Replace this use of System.out by a logger.(¦ØÿÕ8‘µ”§·1
+L	java:S106H"+Replace this use of System.out by a logger.(ÿÉË‘ûÿÿÿÿ8‘µ”§·1
+L	java:S106J"+Replace this use of System.out by a logger.(Ëù·Üýÿÿÿÿ8‘µ”§·1
+…
+java:S1157P"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(˜¸™çùÿÿÿÿ8’µ”§·1
+€
+java:S1157T"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ëá¿õ8’µ”§·1
+…
+java:S1157X"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(´Ö„¦þÿÿÿÿ8’µ”§·1
+€
+java:S1157\"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(øð®ð8“µ”§·1
+I
+java:S1128	",Remove this unused import 'java.time.Clock'.(ÕýÓÙ8”µ”§·1

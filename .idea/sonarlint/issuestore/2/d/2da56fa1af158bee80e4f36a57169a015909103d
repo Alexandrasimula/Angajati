@@ -1,0 +1,14 @@
+
+t
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûÄñ§úÿÿÿÿ
+t
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ»Ü‹úÿÿÿÿ
+P
+java:S11415"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©¦ºÒûÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(Éý®Çùÿÿÿÿ
+E	java:S106:"+Replace this use of System.err by a logger.(ÕÄš€ûÿÿÿÿ
+@	java:S106>"+Replace this use of System.err by a logger.(ÿÉ›º
+V	java:S125M"<This block of commented-out lines of code should be removed.(¹¶»àüÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(¹¶»àüÿÿÿÿ
